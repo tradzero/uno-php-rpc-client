@@ -1,0 +1,15 @@
+{
+    "name": "fatezero/uno_client",
+    "type": "project",
+    "require": {
+        "grpc/grpc": "^1.12",
+        "google/protobuf": "^3.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tradzero",
+            "email": "admin@drakframe.com"
+        }
+    ]
+}
